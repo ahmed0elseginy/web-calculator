@@ -44,3 +44,4 @@ src/main/java/com/calculator/
 src/main/resources/templates/
   calculator.html            - Thymeleaf template
 ```
+![img.png](src/main/resources/templates/img.png)
